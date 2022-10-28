@@ -1,1 +1,57 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Pixel/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/PANEL/WS2812B LED Pixel.kicad_pcb
+	modified:   CAD/V1.0.0/PANEL/WS2812B LED Pixel.kicad_pro
+	modified:   CAD/V1.0.0/WS2812B LED Pixel.kicad_pcb
+	modified:   CAD/V1.0.0/WS2812B LED Pixel.kicad_pro
+	modified:   CAD/V1.0.0/WS2812B LED Pixel.kicad_sch
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Smart LED WS2812B Pixel.jpg
+	modified:   OUTPUTS/V1.0.0/Smart LED WS2812B Pixel_ibom.html
+	modified:   OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel.pdf
+	modified:   OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel_3D.step
+	modified:   OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel_BOM.csv
+	modified:   OUTPUTS/V1.0.0/Smart_LED_WS28212B_Pixel_179.4x217_160.zip
+	modified:   README.md
+	new file:   log.txt
+
+[main 1ecf9d0] Updating open source files.
+ 21 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/WS2812B LED Pixel.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/PANEL/WS2812B LED Pixel.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/WS2812B LED Pixel.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/WS2812B LED Pixel.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/WS2812B LED Pixel.kicad_sch
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart LED WS2812B Pixel.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart LED WS2812B Pixel_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart_LED_WS2812B_Pixel_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Smart_LED_WS28212B_Pixel_179.4x217_160.zip
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Smart-LED-WS2812B-Pixel-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Ring7/OUTPUTS/V1.1.1: all files are present, commiting...
+Smart-LED-WS2812B-Ring7-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Ring7 to Smart-LED-WS2812B-Ring7-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Smart LED WS2812B Pixel/.git/
